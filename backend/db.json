@@ -1,0 +1,19 @@
+{
+    "produtos": [
+        {
+        "id":1,
+        "nome": "camisa jjba",
+        "valor": "50"    
+        },
+        {
+        "id":2,
+        "nome": "camisa batman",
+        "valor": "60"    
+        },
+        {
+        "id":3,
+        "nome": "camisa darth vader",
+        "valor": "70"    
+        }
+    ]
+}
