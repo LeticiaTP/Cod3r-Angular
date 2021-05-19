@@ -2,18 +2,18 @@
   "produtos": [
     {
       "id": 1,
-      "nome": "camisa jjba",
-      "valor": "50"
+      "name": "camisa jjba",
+      "price": "50"
     },
     {
       "id": 2,
-      "nome": "camisa batman",
-      "valor": "60"
+      "name": "camisa batman",
+      "price": "60"
     },
     {
       "id": 3,
-      "nome": "camisa darth vader",
-      "valor": "70"
+      "name": "camisa darth vader",
+      "price": "70"
     },
     {
       "name": "camisa R2D2",
