@@ -19,6 +19,21 @@
       "name": "camisa R2D2",
       "price": "55",
       "id": 4
+    },
+    {
+      "name": "camisa Toy Story",
+      "price": "44",
+      "id": 5
+    },
+    {
+      "name": "camisa Joseph Joestar",
+      "price": "48",
+      "id": 6
+    },
+    {
+      "name": "camisa MBTI",
+      "price": "30",
+      "id": 7
     }
   ]
 }
